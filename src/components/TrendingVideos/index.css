@@ -1,0 +1,22 @@
+.makevideocontainer {
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  list-style-type: none;
+  width: 96%;
+}
+.unordertrend {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.failureimg {
+  width: 350px;
+}
+.failurecontainer {
+  display: flex;
+  width: 90%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

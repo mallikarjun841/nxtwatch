@@ -1,0 +1,38 @@
+.thumbnail {
+  width: 100%;
+  height: 150px;
+}
+.videolist {
+  width: 30%;
+  margin: 8px;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 768px) and (min-width: 500px) {
+  .videolist {
+    width: 45%;
+  }
+}
+
+.profile {
+  width: 40px;
+  align-self: flex-start;
+  margin-right: 8px;
+}
+.profilecontainer {
+  display: flex;
+}
+.views {
+  margin-right: 5px;
+  font-size: 12px;
+  margin: 0px;
+  margin-right: 8px;
+}
+.p1 {
+  margin: 0px;
+  margin-bottom: 4px;
+  font-size: 12px;
+}
+.viewcontainer {
+  display: flex;
+}

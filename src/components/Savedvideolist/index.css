@@ -1,0 +1,9 @@
+.un {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  justify-content: flex-start;
+}
+.savedimg {
+  width: 350px;
+}

@@ -1,0 +1,19 @@
+.videotrend {
+  display: flex;
+  width: 100%;
+
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.videotrendlist {
+  display: flex;
+  width: 80%;
+}
+.img1 {
+  margin-right: 10px;
+  width: 50%;
+  width: 300px;
+}
+.detailsvideo {
+  align-self: flex-start;
+}
